@@ -1,5 +1,5 @@
 ## Xin chào 🙌🏼
-![donalduckgif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExanQ5ajF4cDg5MTRwNWNzbGVnYWhtdTJjdmhrOTZtbnJ3MjJyMTFtdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eMZRByRx9fd2o/giphy.webpyour)
+![donalduckgif](./giphy.webp)
 
 <!--
 **rileyhitthefan/rileyhitthefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
