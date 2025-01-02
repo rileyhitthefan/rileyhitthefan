@@ -1,6 +1,8 @@
 ## Xin chào 🙌🏼
-![donalduckgif](./giphy.webp)
 
+<p align="center">
+![donalduckgif](./giphy.webp)
+</p>
 <!--
 **rileyhitthefan/rileyhitthefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
