@@ -16,6 +16,7 @@
 ![r](https://img.shields.io/badge/r-%23276DC3.svg?style=flat&logo=r&logoColor=white)
 ![mysql](https://img.shields.io/badge/mysql-4479A1.svg?logo=mysql&logoColor=white)
 ![mongodb](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)
+![tableau](https://img.shields.io/badge/Tableau-E97627?style=flate&logo=Tableau&logoColor=white)
 ![streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![aws](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 ![java](https://img.shields.io/badge/java-%23ED8B00.svg?logo=openjdk&logoColor=white)
