@@ -10,6 +10,8 @@
 ![pytorch](https://img.shields.io/badge/PyTorch-black?logo=PyTorch)
 ![pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
 ![numpy](https://img.shields.io/badge/-Numpy-013243?&logo=NumPy)
+![nltk](https://img.shields.io/badge/NLTK-3776AB?logo=python&logoColor=fff)
+![scikit](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ![seaborn](https://img.shields.io/badge/-Seaborn-3776AB?style=flat&logo=python&logoColor=white&size=40x40)
 ![langchain](	https://img.shields.io/badge/langchain-1C3C3C?style=flat&logo=langchain&logoColor=white)
