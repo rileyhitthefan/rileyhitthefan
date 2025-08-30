@@ -2,7 +2,7 @@
 - 🔭 I'm a Data Science undergraduate
 - 🧠 I’m currently working on **Agentic AI** and **Contextual Semantic Search**
 - 🌱 I’m currently learning **Probabilistic Modeling** and **Information Theory**
-- 🎳 Visit my [Notion](https://emobitsh.notion.site/Riley-s-projects-16fd590d474f808a8412dee7ed9ebeb5)
+- 🎳 Visit my [Notion](https://emobitsh.notion.site/rileyhitthefan-portfolio)
 - 🫱🏽‍🫲🏻 Connect with me on [LinkedIn](https://www.linkedin.com/in/rileyphan/)
 
 # Languages and Tools
